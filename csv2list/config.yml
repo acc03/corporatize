@@ -1,0 +1,5 @@
+file: Territory43.csv
+ignore-invalid: true
+
+# Enable/Disable demography
+sexism: true

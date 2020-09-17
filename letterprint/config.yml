@@ -1,0 +1,23 @@
+# Which printer to use.
+printer: EPSON_ET-3760_Series
+# Enables printing.
+print: true
+# Enable this if the top of the letter is cut off.
+top_margin_fix: false
+# The "false" option is now deprecated. Use bulk printing with single-item lists.
+bulk_print: true
+# Enable or disable letter printing.
+letter_print: true
+# Envelope printing.
+envelope_print: true
+# Only enable this is v1 envelope printing does not work for you. v2 envelope printing is much slower.
+envelope_print_v2: false
+# Manual double-sided envelope printing.
+envelope_print_ds: true
+# Enable to prevent cleanup of temp files.
+debug: false
+# Possible modes: print, testing
+mode: print
+# Start and end indexes in bulk print mode
+amount_start: 1
+amount_end: 20

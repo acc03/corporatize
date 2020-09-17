@@ -1,0 +1,8 @@
+{
+    "answers-bulk":{
+        "First name: ":         ["Bob",                 "Bill",                "Donald"               ],
+        "Name to: ":            ["Bob Ross",            "Bill Cosby",          "Donald Trump"         ],
+        "Address to: ":         ["123 Sesame St",       "124 Sesame St",       "1600 Pennsylvania Ave"],
+        "City State ZIP to: ":  ["New York, NY  12345", "New York, NY  12346", "Washington, DC  20500"]
+    }
+}
